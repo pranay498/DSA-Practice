@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 <!---LeetCode Topics End-->
