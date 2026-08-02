@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pranay498/DSA-Practice/tree/master/0078-subsets) |
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranay498/DSA-Practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranay498/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
