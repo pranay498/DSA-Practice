@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pranay498/DSA-Practice/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
 | ------- |
