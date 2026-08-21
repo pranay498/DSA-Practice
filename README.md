@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pranay498/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/pranay498/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
