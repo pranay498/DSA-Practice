@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pranay498/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [2938-separate-black-and-white-balls](https://github.com/pranay498/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Trie
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/pranay498/DSA-Practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/pranay498/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pranay498/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
