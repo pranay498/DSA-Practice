@@ -1,7 +1,7 @@
 class Solution {
 public:
     void backtrack(int ind, vector<int>& nums, vector<int>& subset,
-        vector<vector<int>>& ans) {
+             vector<vector<int>>& ans) {
         ans.push_back(subset);
         for (int i = ind; i < nums.size(); i++) {
             if (i > ind && nums[i] == nums[i - 1])
