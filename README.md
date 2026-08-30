@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/pranay498/DSA-Practice/tree/master/0788-rotated-digits) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pranay498/DSA-Practice/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
