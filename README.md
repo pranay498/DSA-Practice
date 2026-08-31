@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/pranay498/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1609-even-odd-tree](https://github.com/pranay498/DSA-Practice/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/pranay498/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1609-even-odd-tree](https://github.com/pranay498/DSA-Practice/tree/master/1609-even-odd-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [1609-even-odd-tree](https://github.com/pranay498/DSA-Practice/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
