@@ -6,7 +6,6 @@ public:
 
         if (idx == digits.size()) {
             result.push_back(temp);
-            return;
         }
 
         char ch = digits[idx];
