@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/pranay498/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/pranay498/DSA-Practice/tree/master/0788-rotated-digits) |
+| [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Design
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranay498/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
