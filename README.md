@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pranay498/DSA-Practice/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/pranay498/DSA-Practice/tree/master/0274-h-index) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Design
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Quicksort
 |  |
 | ------- |
