@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/pranay498/DSA-Practice/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/pranay498/DSA-Practice/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/pranay498/DSA-Practice/tree/master/0788-rotated-digits) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
