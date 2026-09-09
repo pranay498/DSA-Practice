@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/pranay498/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/pranay498/DSA-Practice/tree/master/0788-rotated-digits) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
