@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/pranay498/DSA-Practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-dice-roll-simulation](https://github.com/pranay498/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/pranay498/DSA-Practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pranay498/DSA-Practice/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pranay498/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
+| [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranay498/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/pranay498/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Stack
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
+| [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
+| [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
