@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/pranay498/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/pranay498/DSA-Practice/tree/master/0788-rotated-digits) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/pranay498/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/pranay498/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pranay498/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
