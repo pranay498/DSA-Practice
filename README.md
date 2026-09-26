@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pranay498/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/pranay498/DSA-Practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/pranay498/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pranay498/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/pranay498/DSA-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
