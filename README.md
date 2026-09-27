@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/pranay498/DSA-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/pranay498/DSA-Practice/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Design
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranay498/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Knapsack Problem
 |  |
