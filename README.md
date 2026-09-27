@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/pranay498/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1223-dice-roll-simulation](https://github.com/pranay498/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay498/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranay498/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Knapsack Problem
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/pranay498/DSA-Practice/tree/master/3085-minimum-deletions-to-make-string-k-special) |
