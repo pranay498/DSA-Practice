@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/pranay498/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pranay498/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1223-dice-roll-simulation](https://github.com/pranay498/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/pranay498/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/pranay498/DSA-Practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pranay498/DSA-Practice/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/pranay498/DSA-Practice/tree/master/0274-h-index) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/pranay498/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/pranay498/DSA-Practice/tree/master/3085-minimum-deletions-to-make-string-k-special) |
