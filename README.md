@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay498/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/pranay498/DSA-Practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay498/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/pranay498/DSA-Practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/pranay498/DSA-Practice/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/pranay498/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
@@ -298,5 +301,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/pranay498/DSA-Practice/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
