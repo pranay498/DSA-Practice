@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pranay498/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/pranay498/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pranay498/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1609-even-odd-tree](https://github.com/pranay498/DSA-Practice/tree/master/1609-even-odd-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pranay498/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
 | ------- |
@@ -303,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/pranay498/DSA-Practice/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pranay498/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pranay498/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
