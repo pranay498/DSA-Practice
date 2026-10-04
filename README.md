@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/pranay498/DSA-Practice/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/pranay498/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pranay498/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
