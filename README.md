@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pranay498/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
+| [1726-tuple-with-same-product](https://github.com/pranay498/DSA-Practice/tree/master/1726-tuple-with-same-product) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pranay498/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2028-find-missing-observations](https://github.com/pranay498/DSA-Practice/tree/master/2028-find-missing-observations) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/pranay498/DSA-Practice/tree/master/1656-design-an-ordered-stream) |
+| [1726-tuple-with-same-product](https://github.com/pranay498/DSA-Practice/tree/master/1726-tuple-with-same-product) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/pranay498/DSA-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1726-tuple-with-same-product](https://github.com/pranay498/DSA-Practice/tree/master/1726-tuple-with-same-product) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/pranay498/DSA-Practice/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Quicksort
