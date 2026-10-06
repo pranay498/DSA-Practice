@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/pranay498/DSA-Practice/tree/master/0670-maximum-swap) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/pranay498/DSA-Practice/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pranay498/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/pranay498/DSA-Practice/tree/master/0962-maximum-width-ramp) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/pranay498/DSA-Practice/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1223-dice-roll-simulation](https://github.com/pranay498/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
