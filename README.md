@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/pranay498/DSA-Practice/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pranay498/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranay498/DSA-Practice/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2938-separate-black-and-white-balls](https://github.com/pranay498/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/pranay498/DSA-Practice/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pranay498/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/pranay498/DSA-Practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranay498/DSA-Practice/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pranay498/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pranay498/DSA-Practice/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pranay498/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranay498/DSA-Practice/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2405-optimal-partition-of-string](https://github.com/pranay498/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pranay498/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pranay498/DSA-Practice/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Brute-Force Search
 |  |
 | ------- |
