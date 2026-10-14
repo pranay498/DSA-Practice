@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0274-h-index](https://github.com/pranay498/DSA-Practice/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/pranay498/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/pranay498/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/pranay498/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pranay498/DSA-Practice/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/pranay498/DSA-Practice/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pranay498/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2191-sort-the-jumbled-numbers](https://github.com/pranay498/DSA-Practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pranay498/DSA-Practice/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranay498/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pranay498/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
