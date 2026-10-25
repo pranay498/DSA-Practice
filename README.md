@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/pranay498/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/pranay498/DSA-Practice/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1223-dice-roll-simulation](https://github.com/pranay498/DSA-Practice/tree/master/1223-dice-roll-simulation) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/pranay498/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1386-cinema-seat-allocation](https://github.com/pranay498/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranay498/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranay498/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pranay498/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/pranay498/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/pranay498/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/pranay498/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/pranay498/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pranay498/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranay498/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/pranay498/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/pranay498/DSA-Practice/tree/master/0140-word-break-ii) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/pranay498/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2707-extra-characters-in-a-string](https://github.com/pranay498/DSA-Practice/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranay498/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/pranay498/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/pranay498/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/pranay498/DSA-Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pranay498/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
